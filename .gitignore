@@ -1,0 +1,2 @@
+# Skip all node packages
+node_modules/
