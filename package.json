@@ -25,7 +25,8 @@
   "homepage": "https://github.com/imKashyap/Forkify#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "fractional": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
