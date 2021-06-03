@@ -44,6 +44,7 @@ Clone the repository on your local machine.
 
 ```bash
 git clone git@github.com:imKashyap/Forkify.git
+cd Forkify
 npm i
 npm run start
 ```
