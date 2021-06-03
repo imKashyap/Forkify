@@ -18,7 +18,7 @@ export const highlightSelected = id => {
     document.querySelector(`.results__link[href*="${id}"]`).classList.add('results__link--active');
 };
 
-const getRecipeTitle = (recipeTitle, lim = 17) => {
+export const getRecipeTitle = (recipeTitle, lim = 17) => {
     if (recipeTitle.length <= lim) return recipeTitle;
     const newTitle = [];
     recipeTitle.split(' ').reduce((acc, cur) => {
