@@ -44,6 +44,8 @@ Clone the repository on your local machine.
 
 ```bash
 git clone git@github.com:imKashyap/Forkify.git
+npm i
+npm run start
 ```
 
 Run `index.html` file on a live server or any browser and make sure you see the following screen:
