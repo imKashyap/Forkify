@@ -53,6 +53,6 @@ Run `index.html` file on a live server or any browser and make sure you see the 
 ![Screenshot of the landing page of Web Server](screenshots/ss1.png)
 
 ## License
- This repository is licensed under [MIT.](https://github.com/imKashyap/budgety/blob/main/LICENSE)
+ This repository is licensed under [MIT.](https://github.com/imKashyap/forkify/blob/main/LICENSE)
  
  Do fork and star :star: the repo if you find it appreciable.
