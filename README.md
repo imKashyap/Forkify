@@ -25,9 +25,10 @@ Following features have been implemented:
 
 - [x] Search over 1,000,000 recipes
 - [x] View Ingredients, Preparation time and recipe 
+- [x] Add Recipes if you know one 
 - [x] Update Ingredients according to servings required to prepare
 - [x] Add, Update & Delete ingredients to Shopping list
-- [x] Mark dishes as Favorites
+- [x] Mark dishes as bookmarks
 - [x] Beautiful UI & UX Designs
   
 ***
