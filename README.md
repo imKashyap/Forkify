@@ -3,7 +3,7 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-- **Forkify** is a budget calculator application.
+- **Forkify** is a Recipe Search Application.
 - The app is developed in HTML, CSS & Javascript. NodeJs is used as a runtime environment for JS.
 - This porject is a part of Javascript course on Udemy by *Jonas Schmedtmann*.
 - Try the website [here.](https://imkashyap.github.io/Forkify/)
