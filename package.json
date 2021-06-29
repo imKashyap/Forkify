@@ -2,7 +2,6 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "A Recipe Search Project",
-  "main": "index.js",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
@@ -25,6 +24,7 @@
   },
   "homepage": "https://github.com/imKashyap/Forkify#readme",
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "parcel": "^2.0.0-beta.1",
     "sass": "^1.26.10"
   },
