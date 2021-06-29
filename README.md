@@ -6,7 +6,7 @@
 - **Forkify** is a Recipe Search Application.
 - The app is developed in HTML, CSS & Javascript. NodeJs is used as a runtime environment for JS.
 - This porject is a part of Javascript course on Udemy by *Jonas Schmedtmann*.
-- Try the website [here.](https://imkashyap.github.io/Forkify/)
+- Try the website [here.](https://reverent-franklin-a9b8ed.netlify.app/)
   
   ***
 
